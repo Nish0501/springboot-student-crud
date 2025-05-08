@@ -11,7 +11,7 @@
     <groupId>com.student</groupId>
     <artifactId>student</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>student</name>
+    <name>student-management-api</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
