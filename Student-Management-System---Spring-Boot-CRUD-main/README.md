@@ -3,7 +3,7 @@
 
 Welcome to the **Student Management CRUD Project**! 🚀
 
-[View Live Demo](https://babureddynr.github.io/spring-html-pages/studentmgtnikitash.html)
+
 
 This project demonstrates a simple CRUD application for managing students using **Java**, **Spring Boot**, and **MySQL**. It provides basic operations such as Create, Read, Update, and Delete (CRUD) for handling student data in a database.
 
@@ -92,11 +92,5 @@ Feel free to contribute by forking the repository, submitting pull requests, or 
 
 ---
 
-## 💬 **Contact**:
-- **Email**: babureddynr@gmail.com 📧
-- **GitHub**: [@babureddynr](https://github.com/babureddynr) 💻
-- **LinkedIn**: [Babu Reddy NR](https://www.linkedin.com/in/babureddynr) 🔗
-
----
 
 Enjoy managing your students with this **Student Management System**! 🎓
